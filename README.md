@@ -1,5 +1,6 @@
 # PDF splitter
 <img src="images/pdf.png" width="500px"></img>
+<hr>
 This is a simple pdf splitter.
 
 The command series are of the type "number of splits"x"number of pages"+"..."
